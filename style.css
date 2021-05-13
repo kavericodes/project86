@@ -1,6 +1,6 @@
 .body_background 
 {
-    background-image: "avenger_bg.jpg";
+    background-image:url("avenger_bg.jpg");
     background-position: center;
     background-size: cover;
 }
